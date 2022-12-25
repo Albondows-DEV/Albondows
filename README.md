@@ -24,7 +24,7 @@ Also known as heartbeat monitoring. Monitor recurring background jobs or intrane
 Use keyword monitoring to check presence or absence of specific text in the request's response body (typically HTML or JSON).
 
 # How it work? (Part 2 - Files)
-All files Created by Developers, so Please do not Copy files before get Permissions from a Administrator (for More informations: [Join Discord Server](https://github.com/VenkSociety/MCGalaxy-Tools/issues).
+All files Created by Developers, so Please do not Copy files before get Permissions from a Administrator (for More informations: [Join Discord Server](https://discord.gg/VNJGB2GVdR).
 
 # Note
 Make sure you read Terms And Conditions before use Albondows [here](https://albondows.github.io/Terms-and-Conditions-for-Albondows/)
